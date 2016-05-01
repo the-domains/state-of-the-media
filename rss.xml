@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[All things art and entertainment in: Film, Games, Literature,]]></title>
+        <description><![CDATA[All things art and entertainment in: Film, Games, Literature,]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 17:45:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Witch (2015)]]></title>
+            <description><![CDATA[<article><h1>The Witch (2015)</h1><p>I find jump scares scary. But I don't find them fun. Well done everyone, you got me! The intense orchestra, the clever editing and the make-up / cgi department all came together, and I got scared... Round of applause</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a504e051a1a20f2e749b8ec96f674e3381c26cbc.jpg"></article>]]></description>
+            <link>https://thefilmqueuedotcom.files.wordpress.com/2016/02/the-witch-movie-2016-film-wallpaper-hd-exclusive-goat.jpg</link>
+            <guid isPermaLink="false">0bfc7131-adc7-480a-904d-4cd9dc082eb3</guid>
+            <pubDate>Sun, 01 May 2016 17:45:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
