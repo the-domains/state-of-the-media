@@ -1,6 +1,6 @@
 name: State of the Media
 favicon: null
-layout_spectrum: 0.022366464138031006
+layout_spectrum: 0.67619
 typography_spectrum: 0.18246910674497485
 title: 'All things art and entertainment in: Film, Games, Literature, et al'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8428855284582824
+  brandStrength: 0.6875
   lightness: 0.18107884819619358
-  saturation: 0.03306791977956891
+  saturation: 0.5625
   rhythmicContrast: 0.2261328655295074
 purpose: []
