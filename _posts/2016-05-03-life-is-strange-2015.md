@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I'll start at the end."
-datePublished: '2016-05-03T20:44:20.588Z'
-dateModified: '2016-05-03T20:43:43.292Z'
+datePublished: '2016-05-07T09:30:45.813Z'
+dateModified: '2016-05-03T20:44:30.189Z'
 title: Life is Strange (2015)
 author: []
+sourcePath: _posts/2016-05-03-life-is-strange-2015.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-life-is-strange-2015.md
-published: true
 url: life-is-strange-2015/index.html
 _type: Article
 
@@ -52,11 +51,8 @@ And all the while, that college theme is brewing away with its photographs and p
 ## Looking Back
 
 The series is masterfully executed and falls just short of perfection due to a _slightly _biased ending which loses the surefootedness the series had expressed before. It certainly doesn't stop the rest of the game from being stellar, but if you chose to see every ending, there is certainly one that is "The " ending.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8597fb0f-b001-4402-803c-069d610cc84b.jpg)
 
 There's also a definite stretching of the episodic nature of Life is Strange in the final two episodes 2, as they fill out in length. Indeed, the amount that is covered in episode 4 almost necessitates a 6th episode to give a little more balance. Largely though, that emotive reaction to the end of the 1st episode only grows over the course of the story, and the characters, environments and plot grow more compelling as time advances. Do we need to revisit Max's world again? No, I don't think so. But I can't wait to see what comes next from Dontnod Entertainment.
-
-
 
 [0]: http://www.imdb.com/title/tt4375662/
