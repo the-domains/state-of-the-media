@@ -1,20 +1,4 @@
-name: State of the Media
-favicon: null
-layout_spectrum: 0.67619
 typography_spectrum: 0.18246910674497485
-title: 'State of the Media: All things art and entertainment in: Film, Games, Literature, et al'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -26,4 +10,22 @@ color:
   lightness: 0.18107884819619358
   saturation: 0.5625
   rhythmicContrast: 0.2261328655295074
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67619
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: State of the Media
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  State of the Media: All things art and entertainment in Film, Games,
+  Literature, et al
 purpose: []
