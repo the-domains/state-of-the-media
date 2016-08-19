@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Main site
+    id: c063b5b6-c5b3-46b4-a0d2-10e5fef02aec
+    type: content
 favicon: null
 title: 'State of the Media:'
 description: 'All things art and entertainment in Film, Games, Literature et al'
