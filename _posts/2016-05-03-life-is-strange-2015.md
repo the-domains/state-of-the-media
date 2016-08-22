@@ -4,18 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "I'll start at the end."
-datePublished: '2016-05-10T20:59:16.195Z'
-dateModified: '2016-05-10T20:59:01.192Z'
+description: I'll start at the end.
+datePublished: '2016-08-22T18:11:15.558Z'
+dateModified: '2016-08-18T13:00:55.312Z'
 title: Life is Strange (2015)
 author: []
 sourcePath: _posts/2016-05-03-life-is-strange-2015.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
 starred: true
 url: life-is-strange-2015/index.html
 _type: Article
