@@ -28,6 +28,9 @@ navigation:
   - name: Main site
     id: c063b5b6-c5b3-46b4-a0d2-10e5fef02aec
     type: content
+  - name: About Me
+    id: 822ce8f1-9b14-4abb-b68a-a7a2e948077a
+    type: content
 favicon: null
 title: 'State of the Media:'
 description: 'All things art and entertainment in Film, Games, Literature et al'
