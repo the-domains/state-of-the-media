@@ -1,18 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: I'll start at the end.
-datePublished: '2016-08-22T18:11:15.558Z'
-dateModified: '2016-08-18T13:00:55.312Z'
-title: Life is Strange (2015)
-author: []
+datePublished: '2016-08-22T18:16:04.022Z'
 sourcePath: _posts/2016-05-03-life-is-strange-2015.md
+inFeed: true
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-22T18:16:03.375Z'
+title: Life is Strange (2015)
+publisher: {}
+description: I'll start at the end.
+inLanguage: null
+inNav: false
 starred: true
 url: life-is-strange-2015/index.html
 _type: Article
@@ -23,9 +23,9 @@ _type: Article
 ## Episode 1
 
 I'll start at the end.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4732f8f0-30b4-43e5-99e8-475c3b57f62d.jpg)
 
 The closing of the first episode offers you the chance to reminisce over who you met, what you've been doing, and it does so with a subtle flourish of visual artistry that has been there, bubbling just under the surface, throughout the gameplay. It was only at this moment, that I was able to take it as a hyper reality piece, as much a product of an American \_\_\_ or the UK's Grange Hill as it is the modern gaming industry. And at this point I found the respect for the game I had previously been lacking.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdc5bd90d703a8f3e7e392e39458db57a903c00.jpg)
 
 A pet hate of mine in current pop culture is for it to be needlessly self-referential. It's up there with the "I love it when the action moves to China" moment of Hollywood films currently. When it's done well, its fantastically entertaining and (or) deeply meaningful. Passing the fictional universe under the mirror of reality we have pieced together from other films, games or texts from myriad genres.Personal favourites of the technique in would be No More Heroes, The Wrestler, or Mansun's Six. These are (respectively) a game a film and an album that all build something new out of placing themselves in their medium through direct reference and toying with the entertainment forms tropes and conventions. Tarentino and GTA do the same in a (deliberately) ham fisted manner, that speaks well to a larger audiences, and means we can all enjoy the "pop culture" references.
 
@@ -39,7 +39,7 @@ So I'd advise stretching your taste barometer for the first episode and seeing w
 ## Mid Season
 
 That was hella crazy. I'd heard people raving about episode three, being something special, which (unfairly) caused me to watch the whole episode loaded with expectation of something revolutionary around every corner. But in reality, the game plays to its structure and offers more of a crescendo of elements coming together with character drama and a sense of responsibility to your actions that you may not have been expecting to feel.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ce1a25f-13a8-4cb8-823b-a2bc7b77039f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c21c209edef73fb0fcf67ca1f5b3adf2a53fb8.jpg)
 
 Here then is where Life is Strange plays its master stroke. Or at the very least, where it shows a real awareness of what the gameplay and narrative have been achieving together. Its no mystery or spoiler to reveal Max's time traveling, and she's far from the first character to meet the complexities and dangers of changing events in the past. However, by controlling her, we are given the luxury of choosing what outcomes we prefer from our characters. We're not entirely bound by the games logic structure, and its need to push us to one of its inevitable conclusions. Alone, this is empowering, and makes each choice slightly more of a feature, as we debate how it may effect things down the road, having peeked down either side of the fork for a moment.
 
